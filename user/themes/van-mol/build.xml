@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project default="development">
+
+    <target name="development">
+		<exec command="yarn install" passthru="true" />
+		<exec command="yarn run build:production" passthru="true" />
+    </target>
+
+</project>
