@@ -1,0 +1,19 @@
+title: 'VAN MOL'
+default_lang: en
+author:
+  name: 'Bastiaan van Mol'
+  email: mail@bastiaanvanmol.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+summary:
+  enabled: false
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog
